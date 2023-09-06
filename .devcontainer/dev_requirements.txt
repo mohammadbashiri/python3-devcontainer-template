@@ -1,0 +1,8 @@
+# development env
+ipython
+
+# for tests
+pytest
+pytest-bdd
+behave
+mypy
