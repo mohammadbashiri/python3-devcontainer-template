@@ -1,4 +1,4 @@
-From mcr.microsoft.com/devcontainers/python:1-3.11-bullseye
+FROM mcr.microsoft.com/devcontainers/python:1-3.11-bullseye
 
 # install the essentials
 COPY .devcontainer/dev_requirements.txt /usr/src
