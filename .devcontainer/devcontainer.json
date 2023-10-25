@@ -20,7 +20,9 @@
 		  "extensions": [
 			"ms-toolsai.jupyter",
 			"GitHub.copilot",
-			"GitHub.copilot-chat"
+			"GitHub.copilot-chat",
+			"GitHub.vscode-pull-request-github",
+			"RichardKotze.git-mob"
 		]
 		}
 	  },
